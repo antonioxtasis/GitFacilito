@@ -1,11 +1,6 @@
 <?php
 App::uses('AppController', 'Controller');
-/**
- * Posicions Controller
- *
- * @property Posicion $Posicion
- * @property PaginatorComponent $Paginator
- */
+
 class PosicionsController extends AppController {
 
 /**
